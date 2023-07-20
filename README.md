@@ -3,11 +3,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmiossec" alt="pmiossec" /></a> </p> -->
 
-- 🔭 I’m currently working on [Git Extensions](https://github.com/gitextensions/gitextensions)
+- 🔭 I’m currently working on [Git Extensions](https://github.com/gitextensions/gitextensions) & [Git-Tfs](https://github.com/git-tfs/git-tfs)
 
 - 💬 Ask me about **.net/C#, React, Git**
 
-- 📫 How to reach me **pmiossec@gmail.com**
+- 📫 How to reach me **pmiossec+gh@gmail.com**
 
 - 📄 Know about my experiences [https://u.pcloud.link/publink/show?code=XZzMGUVZImRBmBIhbymdkrN7DjO3nb3pSfyV](https://u.pcloud.link/publink/show?code=XZzMGUVZImRBmBIhbymdkrN7DjO3nb3pSfyV)
 
