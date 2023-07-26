@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 ### My Contributions to Open-source
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmiossec&theme=algolia&show_icons=true&show=reviews)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmiossec&theme=algolia&show_icons=true&show=reviews&rank_icon=percentile)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiossec&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiossec&layout=compact&theme=algolia&hide=php&langs_count=5)
