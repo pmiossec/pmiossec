@@ -35,8 +35,6 @@
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 </p>
 
-
-
 <!--
 **pmiossec/pmiossec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 
 
 ### My Contributions to Open-source
-
+<!--Doc: https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmiossec&theme=algolia&show_icons=true&show=reviews&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiossec&layout=compact&theme=algolia&hide=php&langs_count=5)
